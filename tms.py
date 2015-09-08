@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+import urllib2
+
 def getSource(url):
 	# thanks: http://stackoverflow.com/questions/30580639/cant-get-python-to-download-webpage-source-code-browser-version-not-supported
 	req = urllib2.Request(url, headers={'User-Agent' : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30"})
