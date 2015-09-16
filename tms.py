@@ -23,3 +23,9 @@ if __name__ == '__main__':
 			sys.exit(0)
 		except SystemExit:
 			os._exit(0)
+
+# https://duapp2.drexel.edu/webtms_du/app?component=quarterTermDetailsNext&page=Home&service=direct&sp=ZH4sIAAAAAAAAADWLOw7CMBAFlyA%2BNaInF8DGSKGhBFGlQeQCS7yKguzg2BtIxYm4GnfAKOKV82beH5gEDyvSndCeejKi9iyedGUbhEZGUZC3MGyUwDiHGZZc1JYYlvkNHyhDa%2BQPBEbr9jnMOSaHu47GYjAMNpW8sK%2Bb6v8fKZQtvCDpnWOYbjcqU1kMTmhMeu7QRylV2Vrtvq1QxdGkAAAA
+# https://duapp2.drexel.edu/webtms_du/app?component=quarterTermDetailsNext&page=Home&service=direct&sp=ZH4sIAAAAAAAAAFvzloG1uIhBPjWlVC%2BlKLUiNUcvs6hErzw1qSS3WC8lsSRRLyS1KJcBAhiZGJh9GNgTk0tCMnNTSxhEfLISyxL1iwtz9EECxSWJuQXWPgwcJUAtzvkpQBVCEBU5iXnp%2BsElRZl56TB5l9Ti5EKGOgamioKCEgY2IwNDUyNToJHhmXlAaYXA0sQiEG1oqmtoBgCbhSKKpgAAAA%3D%3D
+# https://duapp2.drexel.edu/webtms_du/app?component=quarterTermDetailsNext&page=Home&service=direct&sp=ZH4sIAAAAAAAAAFvzloG1uIhBPjWlVC%2BlKLUiNUcvs6hErzw1qSS3WC8lsSRRLyS1KJcBAhiZGJh9GNgTk0tCMnNTSxhEfLISyxL1iwtz9EECxSWJuQXWPgwcJUAtzvkpQBVCEBU5iXnp%2BsElRZl56TB5l9Ti5EKGOgamioKCEgY2IwNDU2NToJHBBSBVCoGliUVAZQqGprqGZgAfTc62pgAAAA%3D%3D
+# https://duapp2.drexel.edu/webtms_du/app?component=quarterTermDetailsNext&page=Home&service=direct&sp=ZH4sIAAAAAAAAADWMPQ6CQBCFR4w%2FtbGXC7iAERtLLWkMXGBkJ2QNizA7KJUn8mrewTXEV37ve%2B%2F9gZlj2JDulWYaqFaGRT3pKtYpjYKqILYwZhLANIMFllIYSwLr7IYPjFxXRz%2FgBG17zGApfnK6a2%2BsRqPGpopyYdNU%2F%2F5MruzgBcHQtgLzXZyk%2B9Rf5r21xOGlR%2FZamKTb5PAFy%2Bn%2BwKYAAAA%3D
+
